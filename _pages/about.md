@@ -18,5 +18,10 @@ During my Master's, I investigated Koreans' social cognition and loneliness duri
 
 Currently, I am exploring how language interacts with emotion acquisition & perception, and how large language models reveal the relationship between language and human cognitive abilities. I am also interested in how computers could augment human emotional experiences.
 
-Find out more about my [publications](publications) and [ongoing works](portfolio)!
+Find out more about my [publications](publications) and [ongoing projects](portfolio)!
 
+More about my life
+------
+I love reading novels and watching movies. I occasionally write reviews about them.
+
+I also love listening to any music (but not hiphop), and an amateur singer and keyboard player.
