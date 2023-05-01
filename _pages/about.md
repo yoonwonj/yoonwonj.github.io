@@ -24,4 +24,4 @@ More about my life
 ------
 I love reading novels and watching movies. I occasionally write reviews about them.
 
-I also love listening to any music (but not hiphop), and an amateur singer and keyboard player.
+I also love listening to any music (but not hiphop). I sing and play keyboard in amateur bands.
