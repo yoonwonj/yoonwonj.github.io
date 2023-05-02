@@ -14,9 +14,9 @@ My research interest is in the intersection of Cognitive Psychology, Affective S
 
 More about my research
 ------
-During my Master's, I investigated Koreans' social cognition and loneliness during COVID-19 using psychological analysis and natural language processing. Through this process, I realized how powerful language is as a window to the human mind. 
+During my Master's, I investigated Koreans' social cognition and loneliness during COVID-19 using psychological analysis and natural language processing. Through this process, I realized how powerful language is as a window to the human mind, and became more interested in the relationship between language and human mind. Moreover, by engaging on projects using the latest technology to help humans, I became passionate about the possibility of extending human mental capacities with the help of computer and interactive technologies
 
-Currently, I am exploring how language shapes emotion acquisition & perception, and how large language models reveal the relationship between language and human cognitive abilities. I am also interested in how computers could augment human emotional experiences.
+Currently, I am exploring how language shapes emotion acquisition & perception, and how large language models reveal the relationship between language and human cognitive abilities. I am also interested in how computers could augment human emotional experiences-coming soon!
 
 Find out more about my [publications](publications) and [ongoing projects](portfolio)!
 
