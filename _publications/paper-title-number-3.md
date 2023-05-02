@@ -1,15 +1,11 @@
 ---
-title: "The relationship between perspective-taking ability and psychological and emotional characteristics observed in a large emotion diary dataset: A cluster analysis"
+title: "Social robots as companions for lonely hearts: The role of anthropomorphism and robot appearances"
 collection: publications
 permalink: /publication/paper-title-number-3
-excerpt: 'Download this paper [here](https://accesson.kr/healthpsy/assets/pdf/28090/journal-28-1-1.pdf).'
-date: 2023-01-31
-venue: 'Korean Journal of Health Psychology'
+excerpt: 'Refined version currently under review'
+date: 2022-08-29
+venue: 'Seoul National University'
 paperurl: 
-citation: 'Kim, JW., <b>Jung, Y</b>., Lee, YK., & Hahn, S. (2023). The relationship between perspective-taking ability and psychological and emotional characteristics observed in a large emotion diary dataset: A cluster analysis. <i>Korean Journal of Health Psychology</i>, <i>28</i>(1), 1-25, 10.17315/kjhp.2023.28.1.001.'
+citation: '<b>Jung, Y</b>. (2022). Social robots as companions for lonely hearts: The role of anthropomorphism and robot appearances [Master's Thesis, Seoul National University].'
 ---
-Download this paper [here](https://accesson.kr/healthpsy/assets/pdf/28090/journal-28-1-1.pdf).
-
-Using the dataset from the previous project [Lee et al., 2021](publication/paper-title-number-1), we explored how perspective-taking levels of diary writers evaluated by the third party were associated with their psychological characteristics. For this, we had 30,000 diary entries annotated with discrete levels perspective-taking per sentence by the trained annotators. The perspective-taking levels ranged from 0 to 3: with level-0 absence of perspective taking, and from level-1 being merely mentioning others whatsoever to level-3 being trying to understand the intentions behind or possible reasons for others’ actions. Based on this annotated journal entries, we performed cluster analysis on self-reported questionnaire responses provided by the journal writers, and conducted ANOVA on the identified clusters. Results revealed that the high perspective-taking group exhibited higher agreeableness, higher self-reported empathy, and less unpleasant feelings than the low group. These results mirrored the previously documented links between self-reported perspective-taking abilities and psychological qualities.
-
-For the full access to the dataset, visit [here](https://github.com/yoonwonj/covid19-tom-empathy-diary).
+Developing upon my interest in loneliness, I came to seek the possibility of technology providing real-life help to lonely individuals. Social robots that are capable of socially meaningful interaction with humans could be a potential source of connectedness. Therefore, I wrote my master’s thesis about how lonely individuals anthropomorphize embodied robots, which is, attributing human-like qualities to non-human agents, with various appearances. Moreover, I examined how the anthropomorphic tendency has downstream consequences on acceptance behavior to investigate the possibility of robotic agents being accepted and used as companions for lonely individuals in real life. Participants viewed a video of one of the three robots (machine-like, animal-like, and human-like) moving and interacting with a human counterpart. Although the main effect of loneliness on anthropomorphism was not significant, the interaction effect between loneliness and robot appearances on predicting anthropomorphism toward social robots was significant. That is, when individuals were lonelier, the tendency to anthropomorphize human-like increased more than that of animal-like robots. Moreover, the increase in anthropomorphic tendency predicted the purchase intent of social robots. This study suggested the potential of social robots to be used to replenish the sense of connectedness for lonely individuals in real life.
