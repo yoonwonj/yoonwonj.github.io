@@ -12,5 +12,5 @@ After investigating loneliness expressed in social media during COVID-19, which 
 
 Results revealed that women and older individuals were lonelier in general, but there was an interaction effect between age and gender on loneliness. While young women were lonelier than young men, the gap decreased as they aged, and the pattern reversed for ages over 60. Using topic modeling and N-gram frequency analysis, we found a potential explanation for the trend. In emotion diaries, all age-gender groups except women in their 60s-70s frequently expressed anxiety and depression. Women in their 20s talked more about work experiences and difficulties in job search, and women in their 30s wrote more about difficulties in childcare and lack of social connections. Spirituality was one of the major topics mentioned by women in their 50s and 60s-70s, but not by the other groups. The effects of age and gender on loneliness reflect social and psychological challenges in Korea during the COVID-19 pandemic. We suggest the importance of establishing valid interventions targeted at younger women and older men.
 
-The manuscript written is currently in the review stage.
+The manuscript written is currently under review.
 

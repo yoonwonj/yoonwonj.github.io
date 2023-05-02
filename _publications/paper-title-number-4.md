@@ -1,7 +1,7 @@
 ---
 title: "The relationship between perspective-taking ability and psychological and emotional characteristics observed in a large emotion diary dataset: A cluster analysis"
 collection: publications
-permalink: /publication/paper-title-number-3
+permalink: /publication/paper-title-number-4
 excerpt: 'Download this paper [here](https://accesson.kr/healthpsy/assets/pdf/28090/journal-28-1-1.pdf).'
 date: 2023-01-31
 venue: 'Korean Journal of Health Psychology'
