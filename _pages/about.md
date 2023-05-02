@@ -22,6 +22,6 @@ Find out more about my [publications](publications) and [ongoing projects](portf
 
 More about my life
 ------
-I love reading novels and watching movies. I occasionally write reviews about them.
+In my spare time, I reading novels, watch movies, and occasionally write reviews about them.
 
-I also love listening to any music (but not hiphop). I sing and play keyboard in amateur bands.
+I also love listening to any music, but not hiphop... I sing and play keyboard in amateur bands.
