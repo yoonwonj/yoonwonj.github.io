@@ -1,7 +1,6 @@
 ---
 title: "Age and gender differences in loneliness during the COVID-19: Analyses on large cross-sectional surveys and emotion diaries"
 collection: publications
-permalink: /portfolio/ongoing-work-title-number-1
 excerpt: 'Download the preprint [here](https://psyarxiv.com/2bdek/).'
 date: 2022-11-16
 venue: 'Psyarxiv'

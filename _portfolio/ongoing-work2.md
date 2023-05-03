@@ -1,7 +1,7 @@
 ---
 title: "The effect of promoting emotional granularity on neuroticism and subjective well-being"
-collection: publications
-permalink: /portfolio/ongoing-work-title-number-2
+collection: ongoing-projects
+permalink: /ongoing-projects/ongoing-work2
 excerpt: 'Manuscript in preparation'
 date: 2023-04-31
 venue: ''
