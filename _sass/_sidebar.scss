@@ -11,7 +11,7 @@
           transform: translate3d(0, 0 , 0);
 
   @include clearfix();
-  margin-bottom: 1em;
+  margin-bottom: 2em; /* mobile version profile sidebar- body margin */
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -27,6 +27,7 @@
 
   @include breakpoint($x-large) {
     padding-right: 0;
+    width: 4.5 /* 0524 added */ 
   }
 
   h2, h3, h4, h5, h6 {
@@ -83,8 +84,8 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 200px; /* 175px*/
+    border-radius: 10%; /* 50%*/
 
     @include breakpoint($large) {
       padding: 5px;
@@ -118,7 +119,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 }
 
 .author__bio {
@@ -129,6 +130,10 @@
     margin-bottom: 20px;
   }
 }
+.sidebar .author__bio {   
+  font-family: $sans-serif;
+  font-size: 14.5px;
+} /* 0524 added for larger font sixe */
 
 .author__urls-wrapper {
   position: relative;
