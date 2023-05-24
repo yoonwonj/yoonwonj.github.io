@@ -131,8 +131,8 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    color: $accent-color; /* original: mix(#fff, $gray, 50%) */
+    border: 2px solid $accent-color; /* 1px solid $light-gray; */
     border-radius: $border-radius;
 
     &:hover {
@@ -173,16 +173,16 @@
    ========================================================================== */
 
 .greedy-nav {
-  position: relative;
-  min-width: 250px;
+  position: static;
+  min-width: 100px; /* 250px */
   background: $background-color;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: #24678d;
-    text-decoration: none;
+    color: $accent-color;
+    text-decoration: 'text-decoration-thickness'; /* none */
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -225,6 +225,7 @@
 
     a {
       position: relative;
+      font-size: $type-size-4; /* added this line to increase the font size of the navigation menu*/
 
       &:before {
         content: "";
@@ -263,7 +264,7 @@
     a {
       margin: 0;
       padding: 10px 20px;
-      font-size: $type-size-5;
+      font-size: $type-size-4; /* type-size-4 to type-size-5 modification: to increase font size of the navigation menu*/
 
       &:hover {
         color: $masthead-link-color-hover;
