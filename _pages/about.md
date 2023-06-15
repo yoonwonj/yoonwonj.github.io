@@ -14,7 +14,6 @@ After graduating from Seoul National University with Bachelor of Arts in Psychol
 
 I am excited to join [Language and Cognition lab](https://langcoglab.ucsd.edu/) directed by Dr.Benjamin Bergen starting this fall!
 
-More about my research
 ------
 My research interest is in the intersection of Cognitive Psychology, Affective Science, Computational Linguistics, and Human-Computer Interaction.
 

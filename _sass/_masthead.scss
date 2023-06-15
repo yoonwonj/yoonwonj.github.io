@@ -51,3 +51,10 @@
     font-weight: 700;
   }
 }
+
+//0616 modify
+.masthead__menu-item-selected {
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
+}

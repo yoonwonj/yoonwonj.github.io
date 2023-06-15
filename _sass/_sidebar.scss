@@ -73,9 +73,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 32px;
   // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -84,7 +83,7 @@
   }
 
   img {
-    max-width: 200px; /* 175px*/
+    max-width: 190x; /* 175px*/
     border-radius: 10%; /* 50%*/
 
     @include breakpoint($large) {
@@ -119,7 +118,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-4;
+  font-size: $type-size-5; /* increase to type-size-4 to increase font size of the author name */
 }
 
 .author__bio {
@@ -132,8 +131,8 @@
 }
 .sidebar .author__bio {   
   font-family: $sans-serif;
-  font-size: 14.5px;
-} /* 0524 added for larger font sixe */
+  font-size: 14px;
+} /* 0524 added for font size adjustment*/
 
 .author__urls-wrapper {
   position: relative;
