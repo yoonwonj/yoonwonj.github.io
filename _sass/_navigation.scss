@@ -225,7 +225,7 @@
 
     a {
       position: relative;
-      font-size: 17px; /* added to increase the font size of the navigation menu*/
+      font-size: 18px; /* added to increase the font size of the navigation menu*/
 
       &:before {
         content: "";
@@ -278,7 +278,7 @@
     a {
       margin: 0;
       padding: 10px 20px;
-      font-size: 17px; /* added to increase the font size of the navigation menu*/
+      font-size: 18px; /* added to increase the font size of the navigation menu*/
 
       &:hover {
         color: $masthead-link-color-hover;

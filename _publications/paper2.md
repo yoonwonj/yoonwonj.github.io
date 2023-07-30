@@ -1,7 +1,7 @@
 ---
 title: "Web-scraping the Expression of Loneliness during COVID-19"
 collection: publications
-permalink: /publication/paper-title-number-2
+permalink: /publications/paper2
 excerpt: 'Download this paper [here](https://escholarship.org/content/qt53m546pq/qt53m546pq.pdf).'
 date: 2021-07-27
 venue: 'Proceedings of the Annual Meeting of the Cognitive Science Society'

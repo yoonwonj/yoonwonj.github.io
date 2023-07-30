@@ -1,7 +1,7 @@
 ---
 title: "Building a Psychological Ground Truth Dataset with Empathy and Theory-of-Mind During the COVID-19 Pandemic"
 collection: publications
-permalink: /publication/paper-title-number-1
+permalink: /publications/paper1
 excerpt: 'Download this papaer [here](https://escholarship.org/content/qt950900w7/qt950900w7.pdf).'
 date: 2021-07-27
 venue: 'Proceedings of the Annual Meeting of the Cognitive Science Society'
