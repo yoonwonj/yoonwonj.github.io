@@ -57,6 +57,7 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
+      
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
@@ -72,6 +73,42 @@ layout: default
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
+
+
+    <header>
+      <h1 class="page__title" itemprop="headline">News</h1>
+    </header>
+
+    <div class="news">
+      {% if site.news != blank -%}
+      {%- assign news_size = site.news | size -%}
+      <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
+        <table class="table table-sm table-borderless">
+        {%- assign news = site.news | reverse -%}
+        {% if include.limit and site.announcements.limit %}
+        {% assign news_limit = site.announcements.limit %}
+        {% else %}
+        {% assign news_limit = news_size %}
+        {% endif %}
+        {% for item in news limit: news_limit %}
+          <tr>
+            <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+            <td>
+              {% if item.inline -%}
+                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+              {%- else -%}
+                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {%- endif %}
+            </td>
+          </tr>
+        {%- endfor %}
+        </table>
+      </div>
+    {%- else -%}
+      <p>No news so far...</p>
+    {%- endif %}
+    </div>
+  
   </article>
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}

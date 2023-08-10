@@ -3,9 +3,13 @@ permalink: /
 title: "Welcome to Yoonwon Jung's Webpage!"
 excerpt: "About me"
 author_profile: true
+news: true  # includes a list of news items
 redirect_from: 
   - /about/
   - /about.html
+  - /news
+  - /news.html
+
 ---
 
 I am a post-masters researcher, and an incoming Cognitive Science Ph.D. student at UC San Diego. 
