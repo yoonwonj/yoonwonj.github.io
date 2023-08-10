@@ -83,7 +83,7 @@ author:
   name             : "Yoonwon Jung"
   avatar           : "Yoonwon_Profile_picture.jpg"
   bio              : "Incoming CogSci Ph.D. student at UCSD"
-  location         : "Seoul, Korea"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.kr/citations?user=iGl3my0AAAAJ&hl=ko"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yoonwon-jung-21645b172/"
+  linkedin         : "yoonwon-jung-21645b172/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -196,7 +196,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 
 # Defaults

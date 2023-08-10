@@ -318,3 +318,9 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 .news table td {
   font-size: 1rem;
 }
+
+.news th { padding-top: 0.1em; padding-bottom: 0.1em; font-size: 1rem; width: 10em; border:none; border-left: 2px solid #444444; vertical-align:top; }
+.news td { padding-top: 0.1em; padding-bottom: 0.1em; border: none; vertical-align:top; }
+.news table {
+  border: none;
+}

@@ -1,3 +1,9 @@
+This is a personalized webpage made by me, modified based on [academicpages Jekyll theme](https://github.com/academicpages/academicpages.github.io). "News" section from [al-folio jekyll theme](https://github.com/alshedivat/al-folio) was added adding codes related to "News" section from the al-folio theme repository & adding a few style changes to adjust to academicpages theme. If you want to add "News" section to your website built based on academicpages theme, take a look at "0810 news edit from al-folio (style not working)" commit and "0810 news edit from al-folio adjusting style" commit. 
+
+Below are the README contents from [academicpages Jekyll theme](https://github.com/academicpages/academicpages.github.io).
+
+-----
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
@@ -14,7 +20,7 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 1. Check status by going to the repository settings, in the "GitHub pages" section
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-See more info at https://academicpages.github.io/
+See more info at 
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
