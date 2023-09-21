@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my publications and preprints on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
@@ -14,11 +14,11 @@ author_profile: true
 An overview of my research interests
 ------
 
-During my Master's, I investigated Koreans' social cognition and loneliness during COVID-19 using psychological analysis and natural language processing. Through this process, I realized how powerful language is as a window to the human mind, and became more interested in the relationship between language and human mind. 
+During my Master's, I investigated social cognition and loneliness within the context of the COVID-19 pandemic, mainly employing natural language processing. This pursuit illuminated my non-dyring-out passion and curiosity toward human emotion, and led me to realize how powerful language is as a window to the human mind. 
 
-I also engaged in projects designing technologies to aid human life and increase mental health. Through this experience, I developed my passion in extending and enhancing human mental capacities using large language models and communication technologies.
+Furthermore, engaging in human-robot interaction research, I realized how human emotion plays crucial role in shaping the dynamics of human-robot interaction. Moreover, by experimenting with large language models to develop empathetic system for social robots, I was fascinated by the potential of incorporating large language models into robotic systems for better emotion representation within social robots.
 
-Currently, I am exploring how language shapes emotion acquisition & perception, and how large language models reveal the relationship between language and human cognitive abilities. I am also interested in how computers could augment human emotional experiences (-coming soon!)
+Currently, I am exploring the cultural variations and similarities in emotion semantics, and how that variability or similarity is reflected in human affective experience. Moreover, I am interested in contributing to affective robotics by incorporating large language models to develop better emotion models for social robots.
 
 ------
 
