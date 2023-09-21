@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/paper5
 excerpt: 'Late Breaking Report at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).'
 date: 2023-08-28
-venue: 'IEEE RO-MAN 2023'
+venue: 'Proceedings of the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)'
 paperurl:
 citation: 'Lee, YK., Jung, Y., Kang, K., & Hahn, S. (2023). Developing Social Robots with Empathetic Non-Verbal Cues Using Large Language Models. arXiv preprint arXiv:2308.16529'
 ---

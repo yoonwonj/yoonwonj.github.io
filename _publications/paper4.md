@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/paper4
 excerpt: "Orally presented at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023). Download the camera-ready version [here](https://arxiv.org/abs/2306.02694)."
 date: 2023-07-04
-venue: 'IEEE RO-MAN 2023'
+venue: 'Proceedings of the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)'
 paperurl: 
 citation: "<b>Jung, Y</b>, Hahn., S. (2023). Social Robots As Companions for Lonely Hearts: The Role of Anthropomorphism and Robot Appearances. arXiv preprint arXiv:2306.02694."
 ---
