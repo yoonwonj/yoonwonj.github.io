@@ -6,7 +6,7 @@ excerpt: 'Late Breaking Report. Download the camera-ready version [here](https:/
 date: 2023-08-28
 venue: 'Proceedings of the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)'
 paperurl:
-citation: 'Lee, YK., Jung, Y., Kang, K., & Hahn, S. (2023). Developing Social Robots with Empathetic Non-Verbal Cues Using Large Language Models. arXiv preprint arXiv:2308.16529'
+citation: 'Lee, YK., <b>Jung, Y</b>, Kang, K., & Hahn, S. (2023). Developing Social Robots with Empathetic Non-Verbal Cues Using Large Language Models. arXiv preprint arXiv:2308.16529'
 ---
 
 A social robot must establish trust so that humans feel comfortable sharing their feelings and thoughts. This necessitates robots conveying a comprehensive understanding through in-depth communication with the user. In-depth communication requires active listening and the use of various non-verbal social cues (e.g., gestures). This gets more challenging for robots, and they need to combine spoken communication with non-verbal social cues, such as body language and speech tone, to gain user trust. 
