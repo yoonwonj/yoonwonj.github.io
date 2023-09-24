@@ -2,7 +2,7 @@
 title: "Social robots as companions for lonely hearts: The role of anthropomorphism and robot appearances"
 collection: publications
 permalink: /publications/paper4
-excerpt: "Orally presented at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023). Download the camera-ready version [here](https://arxiv.org/abs/2306.02694)."
+excerpt: "Download the camera-ready version [here](https://arxiv.org/abs/2306.02694)."
 date: 2023-07-04
 venue: 'Proceedings of the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)'
 paperurl: 

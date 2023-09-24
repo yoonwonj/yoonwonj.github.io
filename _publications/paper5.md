@@ -2,7 +2,7 @@
 title: "Developing Social Robots with Empathetic Non-Verbal Cues Using Large Language Models"
 collection: publications
 permalink: /publications/paper5
-excerpt: 'Late Breaking Report at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).'
+excerpt: 'Late Breaking Report. Download the camera-ready version [here](https://arxiv.org/abs/2308.16529).'
 date: 2023-08-28
 venue: 'Proceedings of the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)'
 paperurl:
