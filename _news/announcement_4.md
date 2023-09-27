@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my doctoral studies in the Cognitive Science Department at UC San Diego!
+Starting my doctoral studies at UC San Diego!
