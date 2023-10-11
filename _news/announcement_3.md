@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented two papers at 2023 IEEE RO-MAN! Oral presentation: [Regular paper](https://arxiv.org/abs/2306.02694). Poster presentation: [LBR](https://arxiv.org/abs/2308.16529)
+Presented two papers at 2023 IEEE RO-MAN! Oral presentation: [Regular paper](https://arxiv.org/abs/2306.02694), Poster presentation: [LBR](https://arxiv.org/abs/2308.16529).

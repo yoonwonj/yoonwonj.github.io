@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented a poster at the 13th International Conference on Cognitive Science! [project](/ongoing-projects/ongoing-work2)
+Presented a poster at the 13th International Conference on Cognitive Science! Learn more about it [here](/ongoing-projects/ongoing-work2).
