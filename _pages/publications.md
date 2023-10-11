@@ -14,11 +14,11 @@ author_profile: true
 An overview of my research interests
 ------
 
-During my Master's, I investigated social cognition and loneliness within the context of the COVID-19 pandemic, mainly employing natural language processing. This pursuit illuminated my non-dyring-out passion and curiosity toward human emotion, and led me to realize how powerful language is as a window to the human mind. 
+During my Master's, I investigated social cognition and loneliness within the context of COVID-19 mainly by employing natural language processing. This pursuit illuminated my non-dyring-out passion and curiosity toward human emotion, and led me to realize how powerful language is as a window to the human mind. 
 
-Furthermore, engaging in human-robot interaction research, I realized how human emotion plays crucial role in shaping the dynamics of human-robot interaction. Moreover, by experimenting with large language models to develop empathetic system for social robots, I was fascinated by the potential of incorporating large language models into robotic systems for better emotion representation within social robots.
+Furthermore, engaging in human-robot interaction research, I realized how human emotion plays crucial role in shaping the dynamics of human-robot interaction. Moreover, by experimenting with large language models to develop a framework for empathetic social robots, I was fascinated by the potential of large language models for better human-robot interaction.
 
-Currently, I am exploring the cultural variations and similarities in emotion semantics, and how that variability or similarity is reflected in human affective experience. Moreover, I am interested in contributing to affective robotics by incorporating large language models to develop better emotion models for social robots.
+<b>As a doctoral student, I am passionate about exploring the cultural variations and similarities in emotion semantics, and how that variability or similarity is reflected in human affective experience. Moreover, I am interested in contributing to affective robotics by incorporating large language models to develop better emotion models for social robots.</b>
 
 ------
 
