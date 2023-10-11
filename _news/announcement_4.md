@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my doctoral study at UC San Diego!
+Started my doctoral study at UC San Diego!
