@@ -17,7 +17,7 @@ I am a 1st year Cognitive Science Ph.D. student at UC San Diego, advised by Dr. 
 I completed my B.A. in Psychology (Summa Cum Laude, Departmental First-Class Distinction) and M.A. in Cognitive Psychology (advised by Dr. Sowon Hahn) at Seoul National University.
 
 ------
-My research interest is in the intersection of Cognitive Psychology, Affective Science, Computational Linguistics, and Human-Computer(Robot) Interaction.
+My primary research focus is the relationship between language and emotion, spanning from individual to cultural contexts. I am also interested in leveraging LLM to design better emotion model for social robots.
 
-Find out more about my publications [here](publications) and ongoing projects [here](portfolio)!
+Find out more about my research interests and publications [here](publications) and ongoing projects [here](portfolio)!
 You can view my recent CV [here](/cv).
