@@ -1,12 +1,14 @@
 ---
-title: "Social Robots As Companions for Lonely Hearts: The Role of Anthropomorphism and Robot Appearance"
+title: "The relationship between perspective-taking ability and psychological and emotional characteristics observed in a large emotion diary dataset: A cluster analysis"
 collection: publications
 permalink: /publications/paper4
-excerpt: "Download the camera-ready version [here](https://arxiv.org/abs/2306.02694)."
-date: 2023-07-04
-venue: 'Proceedings of the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)'
+excerpt: 'Download this paper [here](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002926812).'
+date: 2023-01-31
+venue: 'Korean Journal of Health Psychology'
 paperurl: 
-citation: "<b>Jung, Y</b>, Hahn., S. (2023). Social Robots As Companions for Lonely Hearts: The Role of Anthropomorphism and Robot Appearance. arXiv preprint arXiv:2306.02694."
+citation: 'Kim, JW., <b>Jung, Y</b>., Lee, YK., & Hahn, S. (2023). The relationship between perspective-taking ability and psychological and emotional characteristics observed in a large emotion diary dataset: A cluster analysis. <i>Korean Journal of Health Psychology</i>, <i>28</i>(1), 1-25, 10.17315/kjhp.2023.28.1.001.'
 ---
 
-Developing upon my interest in loneliness, I came to seek the possibility of technology providing real-life help to lonely individuals. Social robots that are capable of socially meaningful interaction with humans could be a potential source of connectedness. Therefore, I wrote my master's thesis about how lonely individuals anthropomorphize embodied robots, which is, attributing human-like qualities to non-human agents, with various appearances. Moreover, I examined how the anthropomorphic tendency has downstream consequences on acceptance behavior to investigate the possibility of robotic agents being accepted and used as companions for lonely individuals in real life. Participants viewed a video of one of the three robots (machine-like, animal-like, and human-like) moving and interacting with a human counterpart. Although the main effect of loneliness on anthropomorphism was not significant, the interaction effect between loneliness and robot appearances on predicting anthropomorphism toward social robots was significant. That is, when individuals were lonelier, the tendency to anthropomorphize human-like increased more than that of animal-like robots. Moreover, the increase in anthropomorphic tendency predicted the purchase intent of social robots. This study suggested the potential of social robots to be used to replenish the sense of connectedness for lonely individuals in real life.
+Using the dataset from the previous project [Lee et al., 2021](/publications/paper1), we explored how perspective-taking levels of diary writers evaluated by the third party were associated with their psychological characteristics. We had 30,000 diary entries annotated with discrete levels of perspective-taking per sentence by the trained annotators. The perspective-taking levels ranged from 0 to 3. level-0 represented the absence of perspective taking, and from level-1 to level-3 represented merely mentioning others to showing attempts to understand the intentions and possible reasons behind others’ actions. Based on this annotated journal entries, we performed cluster analysis on self-reported questionnaire responses provided by the journal writers, and conducted ANOVA on the identified clusters. Results revealed that the high perspective-taking group exhibited higher agreeableness, higher self-reported empathy, and less unpleasant feelings than the low group. These results mirrored the previously documented links between self-reported perspective-taking abilities and psychological qualities.
+
+For the full access to the dataset, visit [here](https://github.com/yoonwonj/covid19-tom-empathy-diary).

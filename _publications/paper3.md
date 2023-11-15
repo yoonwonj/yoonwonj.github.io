@@ -1,14 +1,15 @@
 ---
-title: "The relationship between perspective-taking ability and psychological and emotional characteristics observed in a large emotion diary dataset: A cluster analysis"
+title: "Age and gender differences in loneliness during the COVID-19: Analyses on large cross-sectional surveys and emotion diaries"
 collection: publications
 permalink: /publications/paper3
-excerpt: 'Download this paper [here](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002926812).'
-date: 2023-01-31
-venue: 'Korean Journal of Health Psychology'
-paperurl: 
-citation: 'Kim, JW., <b>Jung, Y</b>., Lee, YK., & Hahn, S. (2023). The relationship between perspective-taking ability and psychological and emotional characteristics observed in a large emotion diary dataset: A cluster analysis. <i>Korean Journal of Health Psychology</i>, <i>28</i>(1), 1-25, 10.17315/kjhp.2023.28.1.001.'
+excerpt: 'Download the preprint [here](https://psyarxiv.com/2bdek/).'
+date: 2022-11-16
+venue: 'Psyarxiv'
+paperurl:
+citation: '<b>Jung, Y</b>., Lee, Y., & Hahn, S. (2022, February 7). Age and gender differences in loneliness during the COVID-19: Analyses on large cross-sectional surveys and emotion diaries. <i> Psyarxiv</i>. https://doi.org/10.31234/osf.io/2bdek.'
 ---
+After investigating loneliness expressed in social media during COVID-19, which led to [Jung et al., 2021](/publications/paper2), I developed an interest in how Koreans are experiencing loneliness during COVID-19. Therefore, we explored loneliness trends by age and gender, and analyzed the differences in expressions used by the age-gender groups in the journal entries. We used the dataset from the previous project [Lee et al., 2021](/publications/paper1). 
 
-Using the dataset from the previous project [Lee et al., 2021](/publications/paper1), we explored how perspective-taking levels of diary writers evaluated by the third party were associated with their psychological characteristics. We had 30,000 diary entries annotated with discrete levels of perspective-taking per sentence by the trained annotators. The perspective-taking levels ranged from 0 to 3. level-0 represented the absence of perspective taking, and from level-1 to level-3 represented merely mentioning others to showing attempts to understand the intentions and possible reasons behind others’ actions. Based on this annotated journal entries, we performed cluster analysis on self-reported questionnaire responses provided by the journal writers, and conducted ANOVA on the identified clusters. Results revealed that the high perspective-taking group exhibited higher agreeableness, higher self-reported empathy, and less unpleasant feelings than the low group. These results mirrored the previously documented links between self-reported perspective-taking abilities and psychological qualities.
+Results revealed that women and older individuals were lonelier in general, but there was an interaction effect between age and gender on loneliness. While young women were lonelier than young men, the gap decreased as they aged, and the pattern reversed for ages over 60. Using topic modeling and N-gram frequency analysis, we found a potential explanation for the trend. In emotion diaries, all age-gender groups except women in their 60s-70s frequently expressed anxiety and depression. Women in their 20s talked more about work experiences and difficulties in job search, and women in their 30s wrote more about difficulties in childcare and lack of social connections. Spirituality was one of the major topics mentioned by women in their 50s and 60s-70s, but not by the other groups. The effects of age and gender on loneliness reflect social and psychological challenges in Korea during the COVID-19 pandemic. We suggest the importance of establishing valid interventions targeted at younger women and older men.
 
-For the full access to the dataset, visit [here](https://github.com/yoonwonj/covid19-tom-empathy-diary).
+The manuscript written is currently under review.

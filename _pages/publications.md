@@ -4,11 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my publications and preprints on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
 An overview of my research interests
@@ -22,9 +17,9 @@ Furthermore, my involvement in human-robot interaction research revealed the piv
 
 ------
 
-Published Articles
+Papers
 ------
-You can also find my articles (including preprints) on [my Google Scholar profile](https://scholar.google.co.kr/citations?user=iGl3my0AAAAJ&hl=ko).
+You can also find my papers (including preprints) at [my Google Scholar profile](https://scholar.google.co.kr/citations?user=iGl3my0AAAAJ&hl=ko).
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

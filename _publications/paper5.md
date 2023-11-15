@@ -1,16 +1,12 @@
 ---
-title: "Developing Social Robots with Empathetic Non-Verbal Cues Using Large Language Models"
+title: "Social Robots As Companions for Lonely Hearts: The Role of Anthropomorphism and Robot Appearance"
 collection: publications
 permalink: /publications/paper5
-excerpt: 'Late Breaking Report. Download the camera-ready version [here](https://arxiv.org/abs/2308.16529).'
-date: 2023-08-28
+excerpt: "Download the camera-ready version [here](https://arxiv.org/abs/2306.02694)."
+date: 2023-07-04
 venue: 'Proceedings of the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)'
-paperurl:
-citation: 'Lee, YK., <b>Jung, Y</b>, Kang, K., & Hahn, S. (2023). Developing Social Robots with Empathetic Non-Verbal Cues Using Large Language Models. arXiv preprint arXiv:2308.16529'
+paperurl: 
+citation: "<b>Jung, Y</b>, Hahn., S. (2023). Social Robots As Companions for Lonely Hearts: The Role of Anthropomorphism and Robot Appearance. <i>2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</i>, 2520–2525. https://doi.org/10.1109/RO-MAN57019.2023.10309617."
 ---
 
-A social robot must establish trust so that humans feel comfortable sharing their feelings and thoughts. This necessitates robots conveying a comprehensive understanding through in-depth communication with the user. In-depth communication requires active listening and the use of various non-verbal social cues (e.g., gestures). This gets more challenging for robots, and they need to combine spoken communication with non-verbal social cues, such as body language and speech tone, to gain user trust. 
-
-Although a significant amount of human-robot interaction (HRI) research has explored the impact of non-verbal cues on improving communication with humans, the question of how to incorporate these into robots' cognitive systems is less examined, especially within the realms of natural language processing (NLP) and artificial intelligence (AI). This gap leads to our central question: can we enhance empathy and active listening in such scenarios by developing a unified cognitive system that incorporates a large language model and proposes suitable non-behavioral cues in a given situation? 
-
-We proposed augmenting the empathetic capacities of social robots by integrating non-verbal cues. Our primary contribution is the design and labeling of four types of empathetic non-verbal cues, abbreviated as SAFE: Speech, Action (gesture), Facial expression, and Emotion, in a social robot.
+Developing upon my interest in loneliness, I came to seek the possibility of technology providing real-life help to lonely individuals. Social robots that are capable of socially meaningful interaction with humans could be a potential source of connectedness. Therefore, I wrote my master's thesis about how lonely individuals anthropomorphize embodied robots, which is, attributing human-like qualities to non-human agents, with various appearances. Moreover, I examined how the anthropomorphic tendency has downstream consequences on acceptance behavior to investigate the possibility of robotic agents being accepted and used as companions for lonely individuals in real life. Participants viewed a video of one of the three robots (machine-like, animal-like, and human-like) moving and interacting with a human counterpart. Although the main effect of loneliness on anthropomorphism was not significant, the interaction effect between loneliness and robot appearances on predicting anthropomorphism toward social robots was significant. That is, when individuals were lonelier, the tendency to anthropomorphize human-like increased more than that of animal-like robots. Moreover, the increase in anthropomorphic tendency predicted the purchase intent of social robots. This study suggested the potential of social robots to be used to replenish the sense of connectedness for lonely individuals in real life.
