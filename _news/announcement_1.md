@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-My first co-authored journal paper published at Korean Journal of Health Psychology! [paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002926812).
+My first co-authored journal paper published at Korean Journal of Health Psychology! [Paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002926812).
  
 

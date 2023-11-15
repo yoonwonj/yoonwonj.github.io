@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented a poster at the 13th International Conference on Cognitive Science! [poster](https://drive.google.com/file/d/15Pe_hApZwIf6TBJtZRfK0_YEGuJal5iI/view).
+Presented a poster at the 13th International Conference on Cognitive Science! [Poster](https://drive.google.com/file/d/15Pe_hApZwIf6TBJtZRfK0_YEGuJal5iI/view).
