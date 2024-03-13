@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-09-27 12:59:00-0400
+date: 2024-03-12 10:35:00-0400
 inline: true
 related_posts: false
 ---
 
-Started my doctoral study at UC San Diego!
+Workshop proposal got accepted at 2024 IEEE RO-MAN! 
+- Title: Large Language Models in the RoMan Age: Exploring Social Impact and Implications for Design and Ethics

@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Presented two papers at 2023 IEEE RO-MAN! Oral presentation: [Regular paper](https://ieeexplore.ieee.org/document/10309617). Poster presentation: [LBR](https://arxiv.org/abs/2308.16529).
+Presented two papers at 2023 IEEE RO-MAN!
+- Oral presentation: [Regular paper](https://ieeexplore.ieee.org/document/10309617)
+- Poster presentation: [Late Breaking Report](https://arxiv.org/abs/2308.16529)
