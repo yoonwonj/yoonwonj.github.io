@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-I am a 1st year Cognitive Science Ph.D. student at UC San Diego, advised by Dr. Benjamin Bergen ([Language and Cognition lab](https://langcoglab.ucsd.edu/))
+I am a 2nd year Cognitive Science Ph.D. student at UC San Diego, advised by Dr. Benjamin Bergen ([Language and Cognition lab](https://langcoglab.ucsd.edu/))
 
 I completed my B.A. in Psychology (Summa Cum Laude, Departmental First-Class Distinction) and M.A. in Cognitive Psychology (advised by Dr. Sowon Hahn) at Seoul National University.
 

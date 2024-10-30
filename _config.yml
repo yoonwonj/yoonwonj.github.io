@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.kr/citations?user=iGl3my0AAAAJ&hl=ko"
-  email            : "ywjung@snu.ac.kr"
-  researchgate     :  "https://www.researchgate.net/profile/Yoonwon-Jung"
+  email            : "y5jung@ucsd.edu"
+  researchgate     : "https://www.researchgate.net/profile/Yoonwon-Jung"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yoonwon-jung-21645b172/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
