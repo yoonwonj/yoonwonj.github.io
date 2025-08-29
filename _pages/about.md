@@ -12,12 +12,11 @@ redirect_from:
 
 ---
 
-I am a 2nd year Cognitive Science Ph.D. student at UC San Diego, advised by Dr. Benjamin Bergen ([Language and Cognition lab](https://langcoglab.ucsd.edu/))
-
-I completed my B.A. in Psychology (Summa Cum Laude, Departmental First-Class Distinction) and M.A. in Cognitive Psychology (advised by Dr. Sowon Hahn) at Seoul National University.
+I am a Cognitive Science Ph.D. student at UC San Diego, advised by Dr. Benjamin Bergen ([Language and Cognition lab](https://langcoglab.ucsd.edu/)) I completed my B.A. in Psychology (Summa Cum Laude, Departmental First-Class Distinction) and M.A. in Cognitive Psychology (advised by Dr. Sowon Hahn) at Seoul National University.
 
 ------
-My primary research focus is in the relationship between language and emotion, spanning from individual to cultural contexts. I am also interested in leveraging LLM to design better emotion model for social robots.
+My research focuses on the relationship between language and emotion, spanning individual to cultural contexts. I combine behavioral experiments with methods from computational linguistics to investigate how emotion concepts vary across languages and the downstream consequences of these differences.
 
-Read more about my research interests and publications [here](publications)!
-You can view my recent CV [here](/cv).
+Previously, I studied emotion and social cognition using NLP and also in the context of human–robot interaction. More recently, I have become interested in theoretical approach for understanding the "affective cognition" in language-based artificial agents, asking whether and in what sense such systems can be said to possess or simulate emotion.
+
+Access my [google scholar profile](https://scholar.google.co.kr/citations?user=iGl3my0AAAAJ&hl=ko), or [my recent CV](/cv).
