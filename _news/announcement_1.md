@@ -1,10 +1,12 @@
 ---
 layout: post
-date: 2023-01-31 15:59:00-0400
+date: 2026-03-15 11:59:00-0400
 inline: true
 related_posts: false
 ---
 
-My first co-authored journal [paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002926812) published at Korean Journal of Health Psychology!
+I presented at the Affective Computing Preconference at the 2026 Society for Affective Science (SAS)!
+- Title: Identifying language-specific emotion terms using representations from Large Language Models
+Stay tuned for the upcoming preprint!
  
 
