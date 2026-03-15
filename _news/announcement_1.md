@@ -5,8 +5,8 @@ inline: true
 related_posts: false
 ---
 
-I presented at the Affective Computing Preconference at the 2026 Society for Affective Science (SAS)!
-- Title: Identifying language-specific emotion terms using representations from Large Language Models
-Stay tuned for the upcoming preprint!
+I presented at the *Affective Computing Preconference* at **2026 SAS**.  
+- **Title:** *Identifying Language-Specific Emotion Terms Using Representations from Large Language Models*
+- Stay tuned for the upcoming preprint!
  
 

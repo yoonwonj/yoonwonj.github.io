@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Co-organized a workshop at 2024 IEEE RO-MAN! 
-- Title: Large Language Models in the RoMan Age: Exploring Social Impact and Implications for Design and Ethics
+Co-organized a workshop at **2024 IEEE RO-MAN**.  
+- **Title:** *Large Language Models in the RoMan Age: Exploring Social Impact and Implications for Design and Ethics*
