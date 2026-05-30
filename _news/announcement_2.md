@@ -1,9 +1,12 @@
 ---
 layout: post
-date: 2024-08-26 10:35:00-0400
+date: 2026-05-24 11:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Co-organized a workshop at **2024 IEEE RO-MAN**.  
-- **Title:** *Large Language Models in the RoMan Age: Exploring Social Impact and Implications for Design and Ethics*
+I presented at the *Affective Computing Preconference* at **SAS2026**
+- **Title:** *Discovering Lexical Gaps Using Embeddings from Multilingual LLMs*
+- preprint: https://arxiv.org/abs/2605.24310 (accepted at CoNLL 2026)
+ 
+
