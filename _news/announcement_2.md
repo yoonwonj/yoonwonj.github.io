@@ -7,6 +7,6 @@ related_posts: false
 
 I presented at the *Affective Computing Preconference* at **SAS2026**.
 - **Title:** *Discovering Lexical Gaps Using Embeddings from Multilingual LLMs*
-- [preprint](https://arxiv.org/abs/2605.24310) (accepted at CoNLL 2026)
+- **Paper:** [preprint](https://arxiv.org/abs/2605.24310) (accepted at CoNLL 2026)
  
 
