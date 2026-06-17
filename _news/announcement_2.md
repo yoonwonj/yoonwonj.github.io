@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I presented at the *Computational Affective Science* Workshop at **LREC2026**.  
+Presented at the *Computational Affective Science* Workshop at **LREC2026**!  
 - **Title:** *EVOKE: Emotion Vocabulary Of Korean and English*
 - **Paper:** [preprint](https://arxiv.org/abs/2602.10414)
  
