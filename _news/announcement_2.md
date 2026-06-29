@@ -6,6 +6,4 @@ related_posts: false
 ---
 
 Presented at the *Computational Affective Science* Workshop at **LREC2026**!  
-- **Title:** *EVOKE: Emotion Vocabulary Of Korean and English*
-- **Paper:** [preprint](https://arxiv.org/abs/2602.10414)
- 
+- *EVOKE: Emotion Vocabulary Of Korean and English* [link](https://lrec.elra.info/lrec2026-ws-cas-12)
