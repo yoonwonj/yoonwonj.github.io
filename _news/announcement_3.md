@@ -1,11 +1,9 @@
 ---
 layout: post
-date: 2026-03-24 11:59:00-0400
+date: 2026-07-10 11:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Presented at the *Affective Computing Preconference* at **SAS2026**!
-- *Discovering Lexical Gaps Using Embeddings from Multilingual LLMs* [preprint](https://arxiv.org/abs/2605.24310) (accepted at CoNLL 2026)
- 
-
+A paper out in ACL Anthology! (Presented at the *Affective Computing Preconference* at **SAS2026**, and at *CoNLL 2026*)
+- *Discovering Lexical Gaps Using Embeddings from Multilingual LLMs* [link](https://aclanthology.org/2026.conll-main.39/)
