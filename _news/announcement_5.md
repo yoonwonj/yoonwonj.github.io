@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 Presented two papers at **2023 IEEE RO-MAN**!
-- **Oral presentation**: [Full paper](https://ieeexplore.ieee.org/document/10309617)
-- **Poster presentation**: [Late Breaking Report](https://arxiv.org/abs/2308.16529)
+- [Social Robots As Companions for Lonely Hearts: The Role of Anthropomorphism and Robot Appearance](https://ieeexplore.ieee.org/document/10309617)
+- [Developing Social Robots with Empathetic Non-Verbal Cues Using Large Language Models](https://arxiv.org/abs/2308.16529)

@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A paper out in ACL Anthology! (Presented at the *Affective Computing Preconference* at **SAS2026**, and at *CoNLL 2026*)
-- *Discovering Lexical Gaps Using Embeddings from Multilingual LLMs* [link](https://aclanthology.org/2026.conll-main.39/)
+Presented a paper at *Affective Computing Preconference* at **SAS2026**, and at **CoNLL 2026**!
+- Discovering Lexical Gaps Using Embeddings from Multilingual LLMs [ACL Anthology](https://aclanthology.org/2026.conll-main.39/)
